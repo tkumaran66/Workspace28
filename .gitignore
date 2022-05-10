@@ -1,0 +1,5 @@
+*.log
+.metadata/
+Servers/
+.git/
+pom.xml.bak

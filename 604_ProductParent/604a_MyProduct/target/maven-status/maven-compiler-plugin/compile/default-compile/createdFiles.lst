@@ -1,0 +1,5 @@
+com\tkcomp\product\bo\ProductBOImpl.class
+com\tkcomp\product\dto\Product.class
+com\tkcomp\product\dao\ProductDAO.class
+com\tkcomp\product\dao\ProductDAOImpl.class
+com\tkcomp\product\bo\ProductBO.class

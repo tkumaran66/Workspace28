@@ -8,6 +8,6 @@ public class MovedSample {
 		System.out.println("name changed data2");
 		System.out.println("direct commit");
 		
-		System.out.println("see diff commit");
+		System.out.println("see diff test commit");
 	}
 }
