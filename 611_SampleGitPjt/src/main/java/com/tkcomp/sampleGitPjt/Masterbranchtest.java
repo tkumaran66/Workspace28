@@ -5,5 +5,6 @@ public class Masterbranchtest {
 		System.out.println("Avoid this file");
 		System.out.println("remove to ignore");
 		System.out.println("master staging");
+		System.out.println("summa master test");
 	}
 }
