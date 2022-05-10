@@ -9,5 +9,6 @@ public class MovedSample {
 		System.out.println("direct commit");
 		
 		System.out.println("This is also from dev branch");
+		System.out.println("This is second from dev branch");
 	}
 }
