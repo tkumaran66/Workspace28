@@ -7,5 +7,6 @@ public class Sample {
 		System.out.println("staging data");
 		System.out.println("new data");
 		System.out.println("name changed data");
+		System.out.println("direct commit");
 	}
 }
