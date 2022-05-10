@@ -6,5 +6,6 @@ public class Sample {
 		System.out.println("modified data");
 		System.out.println("staging data");
 		System.out.println("new data");
+		System.out.println("name changed data");
 	}
 }
