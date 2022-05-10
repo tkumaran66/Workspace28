@@ -10,5 +10,7 @@ public class MovedSample {
 		
 		System.out.println("This is also from dev branch");
 		System.out.println("This is second from dev branch");
+		
+		System.out.println("New line from dev branch for merge check");
 	}
 }
