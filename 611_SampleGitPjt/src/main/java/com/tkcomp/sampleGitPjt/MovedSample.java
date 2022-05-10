@@ -9,5 +9,7 @@ public class MovedSample {
 		System.out.println("direct commit");
 		
 		System.out.println("imp branch test1");
+		System.out.println("This is also from dev branch");
+		System.out.println("This is second from dev branch");
 	}
 }
