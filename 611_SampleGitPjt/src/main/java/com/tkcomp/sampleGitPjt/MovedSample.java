@@ -8,6 +8,6 @@ public class MovedSample {
 		System.out.println("name changed data2");
 		System.out.println("direct commit");
 		
-		System.out.println("name changed data2");
+		System.out.println("I am from develop1 branch");
 	}
 }
