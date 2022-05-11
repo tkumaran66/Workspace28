@@ -9,5 +9,7 @@ public class MovedSample {
 		System.out.println("direct commit");
 		
 		System.out.println("I am from develop1 branch");
+		
+		System.out.println("Master branch");
 	}
 }
