@@ -11,5 +11,7 @@ public class MovedSample {
 		System.out.println("I am from develop1 branch");
 		
 		System.out.println("Master branch");
+		
+		System.out.println("New update for remote repo");
 	}
 }
