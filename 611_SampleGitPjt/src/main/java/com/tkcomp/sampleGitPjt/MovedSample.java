@@ -13,5 +13,7 @@ public class MovedSample {
 		System.out.println("Master branch");
 		
 		System.out.println("New update for remote repo");
+		
+		System.out.println("Modified from remote repo");
 	}
 }
