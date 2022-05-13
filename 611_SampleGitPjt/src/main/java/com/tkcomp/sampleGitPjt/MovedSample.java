@@ -2,6 +2,7 @@ package com.tkcomp.sampleGitPjt;
 
 public class MovedSample {
 	public static void main(String args[]) {
+		System.out.println("After last commit");
 		System.out.println("Test data1");
 		System.out.println("modified data1");
 		System.out.println("staging data");
@@ -15,5 +16,8 @@ public class MovedSample {
 		System.out.println("New update for remote repo");
 		
 		System.out.println("Modified from remote repo");
+		
+		
+		
 	}
 }
